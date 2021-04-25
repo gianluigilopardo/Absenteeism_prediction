@@ -1,4 +1,4 @@
-# dataspaces
+# Prediction of absenteeism at work
 The dataset used is [Absenteeism at work](http://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work) from UCI Machine learning repository. The aim of this work is to apply classification to predict absenteeism at work.
 
 Absenteeism represents for the company the loss of productivity and quality of work. Predicting it can help companies organize tasks appropriately in order to optimize work and avoid stressful situations for both the company and its employees.
